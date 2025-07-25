@@ -127,5 +127,9 @@ $\boxed{T = T^{-1}}$
 which means the Toffoli gate is **its own inverse** — an involution.
 
 ---
+### Next up:
 
-Let me know if you'd like examples of the Toffoli gate truth table or its applications in quantum computing!
+## [[Making Irreversible Gates Reversible]]
+
+
+---

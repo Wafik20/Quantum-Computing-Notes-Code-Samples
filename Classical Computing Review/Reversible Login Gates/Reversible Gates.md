@@ -1,0 +1,1 @@
+A reversible gate, is a logic gate where, given the output(s) of the gate, we can always determine what the input(s) was (were).

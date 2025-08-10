@@ -1,0 +1,17 @@
+# Python virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+.pipenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (optional)
+.ipynb_checkpoints/
